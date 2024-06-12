@@ -19,6 +19,8 @@ The Q-learning algorithm forms the core of this project. Q-learning is a model-f
 
 5. Exploration vs Exploitation: Initially, the agent explores different actions to learn about the environment. As it gains experience, it shifts towards exploiting the best-known actions to maximize profit.
 
+The agent's performance is evaluated based on the total gains and the percentage of investment returns. The plot generated shows the stock prices with the points where the agent decided to buy or sell.
+
 Usage : 
 Install the required libraries: pandas, numpy, seaborn, matplotlib, yfinance, pandas_datareader, tensorflow.
 Run the main.py file to train the Q-learning agent on historical stock data and visualize its performance.
