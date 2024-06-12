@@ -1,5 +1,5 @@
 
-Stock Market Predictor using Reinforcement Learning : 
+Stock Market Predictor using Reinforcement Learning 
 
 This project demonstrates the application of Reinforcement Learning (RL) in predicting stock market trends and making trading decisions. The agent is trained using Q-learning to maximize profit by buying, selling, or holding stocks based on historical price data.
 
