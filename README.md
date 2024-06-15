@@ -4,7 +4,7 @@ Stock Market Predictor using Reinforcement Learning
 This project demonstrates the application of Reinforcement Learning (RL) in predicting stock market trends and making trading decisions. The agent is trained using Q-learning to maximize profit by buying, selling, or holding stocks based on historical price data.
 
 Overview : 
-The goal of this project is to develop a Q-learning agent capable of predicting stock market movements and making informed trading decisions. The agent is trained using historical stock data of Apple Inc. (AAPL) for the year 2020. By analyzing past price movements, the agent learns to optimize its trading strategy to maximize profit.
+The goal of this project is to develop a Q-learning agent capable of predicting stock market movements and making informed trading decisions. The agent is trained using historical stock data of RELIANCE for the year 2020. By analyzing past price movements, the agent learns to optimize its trading strategy to maximize profit.
 
 Methodology : 
 The Q-learning algorithm forms the core of this project. Q-learning is a model-free RL algorithm that enables the agent to learn the best actions to take in a given state. The key components of the project include:
